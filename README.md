@@ -70,7 +70,31 @@
     </p>
 
     <a
+      href="https://
+<section id="work">
+  <h2>My AI Films</h2>
+  <p>Explore my cinematic AI videos and visual stories.</p>
+
+  <div style="
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #191923;
+    border: 1px solid #393544;
+    border-radius: 12px;
+  ">
+    <h3>My First AI Film</h3>
+    <p>An original cinematic creation made with AI.</p>
+
+    <a
       href="https://www.facebook.com/share/r/1B3dCjaze2/"
+      target="_blank"
+      rel="noopener noreferrer">
+      ▶ Watch My Video on Facebook
+    </a>
+  </div>
+</section>
+
       target="_blank"
       rel="noopener noreferrer">
       ▶ Watch My Video on Facebook
