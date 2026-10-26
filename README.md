@@ -28,7 +28,7 @@ h1 {
       color: white;
       text-decoration: none;
       border-radius: 8px;
-    }box-shadow: 0 0 15px rgba(128, 85, 255, 0.25);
+    }box-shadow: 0 0 35px rgba(128, 85, 255, 0.55);
     section { padding: 30px 20px; }
   </style>
 </head>
