@@ -36,10 +36,10 @@
 <div>
   <p>FOLLOW MY WORK</p>
 
-  <a href="https://https:/https://www.facebook.com/profile.php?id=61595801547247
+  <a href="https://www.facebook.com/profile.php?id=61595801547247
      target="_blank" rel="noopener noreferrer">Facebook</a>
 
-  <a href="https://https://www.tiktok.com/@cindy.cano62?_r=1&_t=ZS-9AsaCFFoLPc
+  <a href="https://www.tiktok.com/@cindy.cano62?_r=1&_t=ZS-9AsaCFFoLPc
      target="_blank" rel="noopener noreferrer">TikTok</a>
 
   <a href="https://www.instagram.com/anzklhy00011?obrf=c3A3MGhqN2d2aGfv
