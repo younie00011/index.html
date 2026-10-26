@@ -115,4 +115,50 @@
        target="_blank" rel="noopener noreferrer">TikTok</a>
 
     <a href="https://www.instagram.com/anzklhy00011/"
-      
+       target="_blank" rel="noopener noreferrer">Instagram</a>
+
+    <p>
+      <a href="#work">View My Work</a>
+      <a href="mailto:your-email@example.com">Contact Me</a>
+    </p>
+  </header>
+
+  <section id="work">
+    <h2>My AI Films</h2>
+    <p>Explore my cinematic AI videos and visual stories.</p>
+
+    <div class="film-card">
+      <a class="image-link"
+         href="https://www.facebook.com/share/r/1B3dCjaze2/"
+         target="_blank" rel="noopener noreferrer">
+        <img src="ai-film.jpg"
+             alt="Preview of my first cinematic AI film">
+      </a>
+
+      <h3>My First AI Film</h3>
+      <p>An original cinematic creation made with AI.</p>
+
+      <a href="https://www.facebook.com/share/r/1B3dCjaze2/"
+         target="_blank" rel="noopener noreferrer">
+        ▶ Watch My First Video on Facebook
+      </a>
+    </div>
+
+    <div class="film-card">
+      <h3>My Second AI Film</h3>
+      <p>Another original cinematic creation made with AI.</p>
+
+      <a href="https://www.facebook.com/share/r/1JzzmpH2eV/"
+         target="_blank" rel="noopener noreferrer">
+        ▶ Watch My Second Video on Facebook
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Work With Me</h2>
+    <p>Interested in a cinematic video? Get in touch.</p>
+  </section>
+</body>
+</html>
+```
