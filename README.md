@@ -86,12 +86,12 @@
     <h3>My First AI Film</h3>
     <p>An original cinematic creation made with AI.</p>
 
-    <a
-      href="https://www.facebook.com/share/r/1B3dCjaze2/"
-      target="_blank"
-      rel="noopener noreferrer">
-      ▶ Watch My Video on Facebook
-    </a>
+   <a
+  href="https://www.facebook.com/share/r/1B3dCjaze2/"
+  target="_blank"
+  rel="noopener noreferrer">
+  ▶ Watch My Video on Facebook
+</a>
   </div>
 </section>
 
