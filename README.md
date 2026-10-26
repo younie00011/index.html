@@ -36,7 +36,7 @@
 <div>
   <p>FOLLOW MY WORK</p>
 
-  <a href="https://https://www.facebook.com/share/19o6biN2ZT/
+  <a href="https://https:/https://www.facebook.com/profile.php?id=61595801547247/
      target="_blank" rel="noopener noreferrer">Facebook</a>
 
   <a href="https://https://www.tiktok.com/@cindy.cano62?_r=1&_t=ZS-9AsaCFFoLPc
