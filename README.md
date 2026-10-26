@@ -148,7 +148,7 @@ h1 {
       border: 1px solid #393544;
       border-radius: 12px;
       box-sizing: border-box;
-    }
+    }animation: fadeIn 1.2s ease-out;
 
     .film-card img {
       width: 100%;
@@ -165,7 +165,15 @@ h1 {
       background: none;
       box-shadow: none;
     }
-
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
     @media (max-width: 600px) {
       h1 {
         font-size: 30px;
