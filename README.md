@@ -32,6 +32,20 @@
   <header>
     <h1>MY CINEMATIC STUDIO</h1>
     <p>Creating cinematic worlds with AI.</p>
+    
+<div>
+  <p>FOLLOW MY WORK</p>
+
+  <a href="https://https://www.facebook.com/share/19o6biN2ZT/
+     target="_blank" rel="noopener noreferrer">Facebook</a>
+
+  <a href="https://https://www.tiktok.com/@cindy.cano62?_r=1&_t=ZS-9AsaCFFoLPc
+     target="_blank" rel="noopener noreferrer">TikTok</a>
+
+  <a href="https://www.instagram.com/anzklhy00011?obrf=c3A3MGhqN2d2aGfv
+     target="_blank" rel="noopener noreferrer">Instagram</a>
+</div>
+
     <a href="#work">View My Work</a>
     <a href="mailto:your-email@example.com">Contact Me</a>
   </header>
