@@ -63,6 +63,18 @@
     border: 1px solid #393544;
     border-radius: 12px;
   ">
+<a
+  href="https://www.facebook.com/share/r/1B3dCjaze2/"
+  target="_blank"
+  rel="noopener noreferrer"
+  style="display:block; padding:0; background:none;">
+  <img
+    src="ai-film.jpg"
+    alt="Preview of my cinematic AI film"
+    style="width:100%; max-width:500px; height:auto;
+           display:block; margin:auto; border-radius:8px;">
+</a>
+
     <h3>My First AI Film</h3>
 
     <p>
